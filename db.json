@@ -7,7 +7,7 @@
       "donors": 2,
       "amount": 210,
       "country": "Singapore",
-      "status": CampaignStatus.PUBLISHED,
+      "status": "CampaignStatus.PUBLISHED",
     },
     {
       "name": "Impact Fund B",
@@ -16,7 +16,7 @@
       "donors": 40,
       "amount": 561,
       "country": "Vietnam",
-      "status": CampaignStatus.PUBLISHED,
+      "status": "CampaignStatus.PUBLISHED",
     },
     {
       "name": "Impact Fund C",
@@ -25,7 +25,7 @@
       "donors": 161,
       "amount": 4578,
       "country": "Malaysia",
-      "status": CampaignStatus.ARCHIVED,
+      "status": "CampaignStatus.ARCHIVED",
     },
     {
       "name": "Disaster A",
@@ -34,7 +34,7 @@
       "donors": 1,
       "amount": 72,
       "country": "Indonesia",
-      "status": CampaignStatus.DRAFT,
+      "status": "CampaignStatus.DRAFT",
     }
   ]
 }
